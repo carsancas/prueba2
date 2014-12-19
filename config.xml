@@ -1,0 +1,20 @@
+<?xml version="1.0" enconding="UTF-8"?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+      xmlns:gap = "http://phonegap.com.ns/1.0"
+                    id = "com.phonegap.example"
+            version = "1.0.0">
+<name>Revista</name>
+<description>
+</description>
+
+<gap:platform name="android"/>
+
+<gap:splash src"Imagenes/iconos/icono48.png" gap:platform="android" gap:density="ldpi">
+
+<gap:splash src"Imagenes/iconos/icono72.png" gap:platform="android" gap:density="mdpi">
+
+<gap:splash src"Imagenes/iconos/icono96.png" gap:platform="android" gap:density="hdpi">
+
+<gap:splash src"Imagenes/iconos/icono144.png" gap:platform="android" gap:density="xhdpi">
+
+</widget>

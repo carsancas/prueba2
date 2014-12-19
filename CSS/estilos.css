@@ -1,0 +1,19 @@
+/* CSS Document */
+
+.negritas{
+	font-weight:bold;
+}
+
+		#ContenidoImagenes{
+			width:100%;
+			display:block;
+			text-align:center;
+			position:relative;
+			}
+			#ContenidoImagenes img{
+				width:100%;
+				height:auto;
+				}
+				
+					
+				
