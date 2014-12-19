@@ -9,12 +9,12 @@
 
 <gap:platform name="android"/>
 
-<gap:splash src"Imagenes/iconos/icono48.png" gap:platform="android" gap:density="ldpi">
+<gap:splash src"Imagenes/iconos/icono48.png" gap:platform="android" gap:density="ldpi"/>
 
-<gap:splash src"Imagenes/iconos/icono72.png" gap:platform="android" gap:density="mdpi">
+<gap:splash src"Imagenes/iconos/icono72.png" gap:platform="android" gap:density="mdpi"/>
 
-<gap:splash src"Imagenes/iconos/icono96.png" gap:platform="android" gap:density="hdpi">
+<gap:splash src"Imagenes/iconos/icono96.png" gap:platform="android" gap:density="hdpi"/>
 
-<gap:splash src"Imagenes/iconos/icono144.png" gap:platform="android" gap:density="xhdpi">
+<gap:splash src"Imagenes/iconos/icono144.png" gap:platform="android" gap:density="xhdpi"/>
 
 </widget>
